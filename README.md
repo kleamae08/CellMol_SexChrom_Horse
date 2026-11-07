@@ -1,8 +1,6 @@
 
 # Sex-Chromosome Dosage Analysis in the Horse (*Equus caballus*)
 
-**Cell and Molecular Biology – Individual Practical Exercise**
-
 ## Student Information
 
 - **Name:** Klea Mae G. Estrellanes
